@@ -1,0 +1,54 @@
+#logo {
+    margin-left: 15px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 6px;
+  }
+
+  #logo span {
+    color: #ffc000;
+  }
+
+  #logo span1 {
+    font-size: 30px;
+
+  }
+
+  #menu:hover {
+   color: #fff;
+  }
+  .m{
+    margin-left: 100px;}
+   
+  .welcome-margin{
+    margin-top: 200px;
+  }
+  .width{
+    width:580px;
+    height:510px;
+  }
+  .mycard{
+    height:300px;
+
+  }
+  .w{
+    width:580px;
+  }
+  #account-card{
+    width:550px;
+  }
+  .cards{
+    background-color: #fff;
+  }
+  .height{
+    height: 510px;
+  }
+  .margin{
+    margin-top: 85px;
+    margin-left: 150px;
+  }
+  .mytextcenter{
+    margin-left:240px;
+    margin-top: 200px;
+  }
