@@ -11,8 +11,25 @@
           .card-text{
             font-weight: bold;
             font-family: 'Cabin', sans-serif;
-               }
-      
+           
+          }
+           .card{
+              background-color:rgba(0,0,0,0.2) ;
+              transition: all 0.3s;
+              flex:1 0 auto;
+              cursor:pointer ;
+            }
+          .card:hover{
+           transform:scale(1.10);
+          }
+          .col{
+            display:flex;
+            flex-wrap: wrap;
+             align-items: stretch;
+            
+          }
+    
+    
           hr {
             background-color: rgb(101, 38, 119);
             width: 200px;
